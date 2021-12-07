@@ -1,0 +1,14 @@
+com/learnmore/MainApplication.java
+ com.learnmore.MainApplication
+ com.learnmore.MainApplication$1
+com/learnmore/ReactNativeFlipper.java
+ com.learnmore.ReactNativeFlipper
+ com.learnmore.ReactNativeFlipper$1
+ com.learnmore.ReactNativeFlipper$2
+ com.learnmore.ReactNativeFlipper$2$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/learnmore/BuildConfig.java
+ com.learnmore.BuildConfig
+com/learnmore/MainActivity.java
+ com.learnmore.MainActivity
